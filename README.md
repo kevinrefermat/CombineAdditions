@@ -1,3 +1,3 @@
 # CombineAdditions
 
-A description of this package.
+Adds a few useful bits of functionality to Combine.
